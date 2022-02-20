@@ -1,0 +1,22 @@
+{
+  "name": "ecmascript-6-",
+  "version": "1.0.0",
+  "description": "entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscruz45/ECMAScript-6-.git"
+  },
+  "keywords": [
+    "medico123"
+  ],
+  "author": "Elvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviscruz45/ECMAScript-6-/issues"
+  },
+  "homepage": "https://github.com/elviscruz45/ECMAScript-6-#readme"
+}
